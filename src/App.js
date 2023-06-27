@@ -12,7 +12,7 @@ function App() {
         </p>
         Eng. Software
         <p>
-          Trabalhando no meu Portfolio
+          Trabalhando no meu Portfolio.
         </p>
       </header>
     </div>
